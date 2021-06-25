@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="hp-notebook"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2021-06-25 05:06:35 "/>
+        <attribute name="created" value="aHAtbm90ZWJvb2s7REVTS1RPUC1BNTU4MTZVOzIwMjEtMDYtMjU7IjAzOjEzOjU2ICI7MzMxNQ=="/>
+        <attribute name="edited" value="aHAtbm90ZWJvb2s7REVTS1RPUC1BNTU4MTZVOzIwMjEtMDYtMjU7IjA1OjA2OjM1ICI7MTszNDI0"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nota1, nota2, nota3, nota4, media" type="Real" array="False" size=""/>
+            <input variable="nota1"/>
+            <input variable="nota2"/>
+            <input variable="nota3"/>
+            <input variable="nota4"/>
+            <assign variable="media" expression="nota1+nota2+nota3+nota4/4"/>
+            <output expression="&quot; A sua m&#233;dia &#233; de : &quot; &amp; media" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
