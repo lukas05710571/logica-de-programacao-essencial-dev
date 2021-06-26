@@ -1,0 +1,15 @@
+Desafio : criar um algoritmo do meu dia 
+
+		Inicio do dia
+	
+1 - acordar
+2 - tomar banho & escovar os dentes
+3 - se secar
+4 - se vestir
+5 - pegar o computador no armário
+6 - ligar o computador
+7 - estudar durante 3 horas
+8 - almoçar durante 1 hora
+9 - voltar para o computador e estudar durante 3 horas
+10 - descanso maior até ás 22:00
+11 - dormir durante 9 horas e repetir.
