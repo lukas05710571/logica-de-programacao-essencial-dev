@@ -8,11 +8,11 @@ Algoritmo "terreno"
 //duas casas decimais.
 Var
 // Seção de Declarações das variáveis 
-   a,b,c,d,i,m : real
+   a,b,c,d,i,m,n : real
 
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
-escreval("Desculbra o valor do terreno em praia-grande sp")
+escreval("Saiba por qual preço vender seu terreno de acordo com a tabela de preços da sua região")
 
 escreval("Digite á largura do terreno")
 leia(a)
@@ -21,9 +21,12 @@ leia(b)
 escreval("Digite o valor do metro quadrado")
 leia(c)
 
+escreval("Digite o valor por metro na sua região , preenche o valor com número real")
+leia(n)
+
 d <- (a*b)
 i <- c*c
-m <-  i*1.450
+m <-  i*n
 
 
 escreval("Area do terreno :",d," m²")
