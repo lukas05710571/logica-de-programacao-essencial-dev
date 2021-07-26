@@ -4,9 +4,9 @@ casa decimal, bem como o valor do metro quadrado do terreno com duas casas decim
 o programa deve mostrar o valor da área do terreno, bem como o valor do preço do terreno, ambos com
 duas casas decimais.
 
-2 - // Problema "idades"
-//Fazer um programa para ler o nome e idade de duas pessoas. Ao final mostrar uma mensagem com os
-//nomes e a idade média entre essas pessoas, com uma casa decimal
+2 - Problema "idades"
+Fazer um programa para ler o nome e idade de duas pessoas. Ao final mostrar uma mensagem com os
+nomes e a idade média entre essas pessoas, com uma casa decimal
 
 3 - Soma de dois valores inteiros e mostrar no resultado para o usuário.
 
@@ -16,3 +16,12 @@ duas casas decimais.
 //e o valor em dinheiro dado pelo cliente (suponha que haja dinheiro suficiente). Seu programa deve
 //mostrar o valor do troco a ser devolvido ao cliente.
 
+5 - Criar um programa que descubra a área do circulo
+
+6 - Fazer um programa para ler a distância total (em km) percorrida por um carro, bem como o total de
+combustível gasto por este carro ao percorrer tal distância. Seu programa deve mostrar o consumo
+médio do carro, com três casas decimais
+
+7 - Fazer um programa para ler o nome de um(a) funcionário(a), o valor que ele(a) recebe por hora, e a
+quantidade de horas trabalhadas por ele(a). Ao final, mostrar o valor do pagamento do funcionário com
+uma mensagem explicativa
