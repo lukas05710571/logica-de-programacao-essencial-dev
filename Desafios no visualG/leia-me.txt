@@ -11,10 +11,10 @@ nomes e a idade média entre essas pessoas, com uma casa decimal
 3 - Soma de dois valores inteiros e mostrar no resultado para o usuário.
 
 4 - Descrição   : Problema "troco"
-//Fazer um programa para calcular o troco no processo de pagamento de um produto de uma mercearia.
-//O programa deve ler o preço unitário do produto, a quantidade de unidades compradas deste produto,
-//e o valor em dinheiro dado pelo cliente (suponha que haja dinheiro suficiente). Seu programa deve
-//mostrar o valor do troco a ser devolvido ao cliente.
+Fazer um programa para calcular o troco no processo de pagamento de um produto de uma mercearia.
+O programa deve ler o preço unitário do produto, a quantidade de unidades compradas deste produto,
+e o valor em dinheiro dado pelo cliente (suponha que haja dinheiro suficiente). Seu programa deve
+mostrar o valor do troco a ser devolvido ao cliente.
 
 5 - Criar um programa que descubra a área do circulo
 
@@ -25,3 +25,18 @@ médio do carro, com três casas decimais
 7 - Fazer um programa para ler o nome de um(a) funcionário(a), o valor que ele(a) recebe por hora, e a
 quantidade de horas trabalhadas por ele(a). Ao final, mostrar o valor do pagamento do funcionário com
 uma mensagem explicativa
+
+8 - algoritmo : Problema "notas"
+Fazer um programa para ler as duas notas que um aluno obteve no primeiro e segundo semestres de
+uma disciplina anual. Em seguida, mostrar a nota final que o aluno obteve (com uma casa decimal) no
+ano juntamente com um texto explicativo. Caso a nota final do aluno seja inferior a 60.00, mostrar a
+mensagem "REPROVADO", conforme exemplos.
+
+9 - Fazer um programa para ler três números inteiros. Em seguida, mostrar qual o menor dentre os três
+números lidos. Em caso de empate, mostrar apenas uma vez.
+
+10 - Descrição   : Uma operadora de telefonia cobra R$ 50.00 por um plano básico que dá direito a 100 minutos de
+telefone. Cada minuto que exceder a franquia de 100 minutos custa R$ 2.00. Fazer um programa para
+ler a quantidade de minutos que uma pessoa consumiu, daí mostrar o valor a ser pago.
+
+
